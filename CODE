@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MPVSAIGON - Dịch vụ nội thất ô tô</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f9f9f9;
+    }
+    .container {
+      max-width: 960px;
+      margin: auto;
+      padding: 2em;
+      background-color: #fff;
+    }
+    h1, h2 {
+      color: #b22222;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1em auto;
+      border-radius: 8px;
+    }
+    section {
+      margin-bottom: 3em;
+    }
+    iframe {
+      border: 0;
+      width: 100%;
+      max-width: 900px;
+      height: 900px;
+      display: block;
+      margin: 2em auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <section>
+      <h1>Giới thiệu về MPVSAIGON</h1>
+      <p>MPVSAIGON là đơn vị tiên phong trong lĩnh vực nâng cấp nội thất ô tô cao cấp tại Việt Nam. Chúng tôi chuyên cung cấp các giải pháp bọc ghế, bọc da, cải tiến nội thất, và nâng cấp dòng ghế limousine đẳng cấp. Với đội ngũ kỹ thuật viên lành nghề, xưởng thi công hiện đại, và cam kết về chất lượng dịch vụ, MPVSAIGON đã trở thành lựa chọn hàng đầu của nhiều chủ xe muốn nâng tầm trải nghiệm lái xe. Sự tận tâm, tỉ mỉ trong từng chi tiết là yếu tố giúp chúng tôi tạo dựng niềm tin với khách hàng trong suốt hành trình phát triển.</p>
+      <img src="https://bizweb.dktcdn.net/100/430/778/themes/826701/assets/slider_3.jpg?1751938470380" alt="Đội ngũ MPVSAIGON">
+    </section>
+
+    <section>
+      <h2>Các dịch vụ tại MPVSAIGON</h2>
+      <p>MPVSAIGON chuyên cung cấp hai nhóm dịch vụ chính: bọc ghế và bọc da nội thất ô tô; cùng với dòng sản phẩm ghế limousine tuyển chọn. Chúng tôi tập trung vào chất lượng thi công, độ bền vật liệu, và sự hài hòa trong thiết kế tổng thể nội thất xe. Mỗi dòng sản phẩm đều được chọn lọc kỹ lưỡng và có thể cá nhân hóa theo nhu cầu riêng của từng khách hàng.</p>
+
+      <h3>Bọc ghế & bọc da nội thất ô tô</h3>
+      <p>Dịch vụ bọc ghế tại MPVSAIGON sử dụng các dòng da chất lượng cao như da Nappa, da Microfiber và da công nghiệp cao cấp. Khách hàng có thể lựa chọn kiểu may, màu sắc, họa tiết, giúp nội thất xe trở nên mới mẻ và sang trọng hơn.</p>
+      <img src="https://bizweb.dktcdn.net/100/430/778/themes/826701/assets/section_hot.jpg?1751938470380" alt="Bọc ghế da nội thất ô tô">
+
+      <h3>Ghế limousine tuyển chọn tại MPVSAIGON</h3>
+      <p>Ghế limousine tại MPVSAIGON được chế tác tỉ mỉ từ chất liệu cao cấp, tích hợp các tính năng như massage, ngả điện, bệ tỳ tay pha lê, sạc không dây và màn hình cảm ứng. Đây là lựa chọn lý tưởng để nâng tầm không gian xe thành chuyên cơ mặt đất.</p>
+      <img src="https://bizweb.dktcdn.net/100/430/778/themes/826701/assets/section_pro_banner.jpg?1751938470380" alt="Ghế limousine MPVSAIGON">
+    </section>
+
+    <section>
+      <h2>Lý do chọn MPVSAIGON</h2>
+      <p>Chúng tôi không chỉ cung cấp dịch vụ, mà còn đồng hành cùng khách hàng trong từng chi tiết nâng cấp. MPVSAIGON cam kết: chất lượng vượt trội, bảo hành minh bạch, đội ngũ tư vấn tận tâm, và dịch vụ hậu mãi uy tín. Đó là lý do hàng trăm khách hàng tin tưởng và quay lại sử dụng dịch vụ tại đây.</p>
+
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31352.50534826118!2d106.782606!3d10.806474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317527f41774d3f7%3A0xebcae201b1f74d0d!2sMPV%20Saigon%20Auto-%20N%E1%BB%99i%20th%E1%BA%A5t%20xe%20cao%20c%E1%BA%A5p%20-%20Limousine!5e0!3m2!1svi!2sus!4v1753667978198!5m2!1svi!2sus" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section>
+
+    <section>
+      <h2>Tài liệu giới thiệu dịch vụ</h2>
+      <iframe src="https://drive.google.com/file/d/16KkkS6WQb4jziv2J1Z6vSZhcr6hbsNKb/preview" width="100%" height="900px" allow="autoplay"></iframe>
+    </section>
+
+  </div>
+</body>
+</html>
